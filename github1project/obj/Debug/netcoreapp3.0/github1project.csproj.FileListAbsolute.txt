@@ -1,0 +1,11 @@
+C:\Users\Scolar\source\repos\github1project\github1project\bin\Debug\netcoreapp3.0\github1project.exe
+C:\Users\Scolar\source\repos\github1project\github1project\bin\Debug\netcoreapp3.0\github1project.deps.json
+C:\Users\Scolar\source\repos\github1project\github1project\bin\Debug\netcoreapp3.0\github1project.runtimeconfig.json
+C:\Users\Scolar\source\repos\github1project\github1project\bin\Debug\netcoreapp3.0\github1project.runtimeconfig.dev.json
+C:\Users\Scolar\source\repos\github1project\github1project\bin\Debug\netcoreapp3.0\github1project.dll
+C:\Users\Scolar\source\repos\github1project\github1project\bin\Debug\netcoreapp3.0\github1project.pdb
+C:\Users\Scolar\source\repos\github1project\github1project\obj\Debug\netcoreapp3.0\github1project.csprojAssemblyReference.cache
+C:\Users\Scolar\source\repos\github1project\github1project\obj\Debug\netcoreapp3.0\github1project.AssemblyInfoInputs.cache
+C:\Users\Scolar\source\repos\github1project\github1project\obj\Debug\netcoreapp3.0\github1project.AssemblyInfo.cs
+C:\Users\Scolar\source\repos\github1project\github1project\obj\Debug\netcoreapp3.0\github1project.dll
+C:\Users\Scolar\source\repos\github1project\github1project\obj\Debug\netcoreapp3.0\github1project.pdb
